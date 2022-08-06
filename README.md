@@ -11,7 +11,7 @@ This repository serves as a main hub that can be used as a guide to navigate dir
 The first version of the Quarktium project includes a NFT collection developed based upon a scientific foundation, the fundamentals of which are explained deeply in the official documents and in its corresponding repository, and a Marketplace where users can trade their stars.
 
 - Official docs: INSERT LINK
-- [Quarkium NFT collection:](https://github.com/devScrooge/metastars-nft-collection): NFT collection.
-- [Quarkium Marketplace:](https://github.com/devScrooge/metastars-nft-marketplace): NFT Marketplace.
-- [Graph Marketplace:](https://github.com/devScrooge/metastars-graph-marketplace): TheGraph implementation used to read events from the Marketplace and use them on the frontend.
-- [Quarkium frontend:](https://github.com/devScrooge/metastars-frontend): frontend repository.
+- [Quarkium NFT collection - UPPERSKY:](https://github.com/devScrooge/metastars-nft-collection) NFT collection.
+- [Quarkium Marketplace:](https://github.com/devScrooge/metastars-nft-marketplace) NFT Marketplace.
+- [Graph Marketplace:](https://github.com/devScrooge/metastars-graph-marketplace) TheGraph implementation used to read events from the Marketplace and use them on the frontend.
+- [Quarkium frontend:](https://github.com/devScrooge/metastars-frontend) frontend repository.
